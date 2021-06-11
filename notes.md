@@ -19,3 +19,4 @@ https://www.google.com/maps/d/u/1/edit?mid=1PV5IUgotlrX-CCT6t-SvANsnq5mcmfU7&usp
 
 <iframesrc="https://www.google.com/maps/d/u/1/embed?mid=1PV5IUgotlrX-CCT6t-SvANsnq5mcmfU7"width="640"height="480"></iframe>
 
+No such luck with embeding the Google My Map on to here either...
