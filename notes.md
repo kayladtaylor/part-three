@@ -22,6 +22,6 @@ https://www.google.com/maps/d/u/1/edit?mid=1PV5IUgotlrX-CCT6t-SvANsnq5mcmfU7&usp
 
 No such luck with embeding the Google My Map on to here either...
 
-__Map of Places to Visit in Ottawa_
+_Map of Places to Visit in Ottawa_
 
 https://www.google.com/maps/d/u/1/edit?mid=1EJV_7-oXS9cDvDgy8WVoogFfhmOPO9G-&usp=sharing
