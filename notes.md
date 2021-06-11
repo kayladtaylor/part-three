@@ -15,8 +15,13 @@ In the second link, I specify all the terms of I have interest in and it was pre
 
 ## Google My Maps
 
+__Tutorial__
 https://www.google.com/maps/d/u/1/edit?mid=1PV5IUgotlrX-CCT6t-SvANsnq5mcmfU7&usp=sharing
 
 <iframesrc="https://www.google.com/maps/d/u/1/embed?mid=1PV5IUgotlrX-CCT6t-SvANsnq5mcmfU7"width="640"height="480"></iframe>
 
 No such luck with embeding the Google My Map on to here either...
+
+__Map of Places to Visit in Ottawa_
+
+https://www.google.com/maps/d/u/1/edit?mid=1EJV_7-oXS9cDvDgy8WVoogFfhmOPO9G-&usp=sharing
